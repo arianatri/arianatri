@@ -1,6 +1,6 @@
 ✅ 
 <br>🔹AI specialist <br>🔹FrontEnd : next.js react.js <br>🔹BackEnd : Laravel <br><br> 
-
+if you want to support me use the link below :
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arianatri) 
 
 # some of my tech:
