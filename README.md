@@ -2,9 +2,12 @@
 <h3 align="center">Ai researcher and fullstack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arianatri/arianatri/main/animated.gif">
 <br><br><br><br>
-<h3 <br>🔹AI specialist <br>
+<h3 <br>
+🔹AI specialist 
+<br><br>
 🔹FrontEnd : next.js react.js 
-<br>🔹BackEnd : Laravel 
+<br><br>
+🔹BackEnd : Laravel 
 <br><br> 
 </h3>
 
