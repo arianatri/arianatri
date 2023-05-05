@@ -12,9 +12,9 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arianatri) 
 
 <br><br><br>
+## 🏆 my github stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arianatri&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arianatri&theme=algolia&no-frame=true&no-bg=false&margin-w=10)
 
 [![](https://visitcount.itsvg.in/api?id=arianatri&icon=0&color=3)](https://visitcount.itsvg.in)
