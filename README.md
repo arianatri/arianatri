@@ -3,12 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arianatri/arianatri/main/animated.gif">
 <br><br><br>
 <br>🔹AI specialist <br>🔹FrontEnd : next.js react.js <br>🔹BackEnd : Laravel <br><br> 
-<br><br> <br><br> <br><br> 
+<br><br><br><br><br><br><br><br><br><br>
+
 ## If you want to support me, you may use the link below :
  
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arianatri) 
 <br>
-
+<br><br><br><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arianatri&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
