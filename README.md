@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm arian atri</h1>
 <h3 align="center">Ai researcher and fullstack Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arianatri/arianatri/main/animated.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arianatri/arianatri/main/giphy.webp">
 <br><br><br><br>
 <h3 <br>
 🔹AI specialist 
