@@ -12,7 +12,7 @@ if you want to support me use the link below :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arianatri&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arianatri&theme=algolia&no-frame=true&no-bg=false&margin-w=2)
 
 [![](https://visitcount.itsvg.in/api?id=arianatri&icon=0&color=3)](https://visitcount.itsvg.in)
 
