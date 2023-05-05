@@ -1,4 +1,5 @@
-✅ 
+✅<br>
+
 <img src= "https://github.com/arianatri/arianatri/blob/main/animated.gif" align = "center" width = "400px" alt ="img_center_dev"/>
 <br>🔹AI specialist <br>🔹FrontEnd : next.js react.js <br>🔹BackEnd : Laravel <br><br> 
 if you want to support me use the link below :
