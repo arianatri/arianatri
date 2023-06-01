@@ -9,6 +9,8 @@
 <br><br>
 🔹BackEnd : Laravel 
 <br><br> 
+🔹wordpress dev(maybe 😋) 
+<br><br> 
 </h3>
 
 <br><br><br><br>
