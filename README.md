@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arianatri/arianatri/main/giphy.webp">
 <br><br><br><br>
 <h3 <br>
-🔹AI specialist 
+🔹AI specialist (smh)
 <br><br>
-🔹FrontEnd : next.js react.js 
+🔹FrontEnd : next.js react.js (I LOVE THESE)
 <br><br>
-🔹BackEnd : Laravel 
+🔹BackEnd : Laravel (mostly)
 <br><br> 
-🔹wordpress dev(maybe 😋) 
+🔹wordpress dev 
 <br><br> 
 </h3>
 
